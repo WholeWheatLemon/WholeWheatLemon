@@ -1,2 +1,2 @@
-hi im ollie
-nowadays i mostly do godot dev as well as art stuff such as character design
+hi im ollie!
+nowadays i mostly do godot dev as well as art stuff like character design
