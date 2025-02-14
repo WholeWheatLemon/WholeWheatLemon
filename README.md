@@ -1,2 +1,2 @@
 hi im ollie
-i do minecraft art and dev stuff mostly
+nowadays i mostly do godot dev as well as art stuff such as character design
